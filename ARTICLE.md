@@ -1,11 +1,10 @@
 # Interesting Software Article
 
 ## Article Link
-https://martinfowler.com/articles/microservices.html
+https://poly.rpi.edu/opinion/2025/09/touching-grass-is-unfortunately-good-advice/
 
 ## Why I Find This Interesting
-This article discusses microservices architecture and how it enables teams to build scalable and maintainable systems.
-I find it interesting because it explains real-world tradeoffs instead of presenting microservices as a silver bullet.
+Veri veri usefull article for all CS Majors!
 
 ## Proof Reading
 Article checked for typos
