@@ -3,3 +3,6 @@
 A simple project to practice a few git/github workflows.  Update this file as instructed in [instructions](./instructions.md).
 ## Student
 Name: Dhyey Vank dv2335
+## External Contribution
+Merged PR: https://github.com/cs-uh-2012-spring26/i1-git-practice-jk7404/pull/3
+
