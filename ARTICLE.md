@@ -9,6 +9,6 @@ Veri veri usefull article for all CS Majors!
 ## Proof Reading
 Article checked for typos
 
-## Edits by Nathan Seyoum:
-Very very useful article for all CS Majors!
+## Edits by Nathan Seyoum(nas9202):
+Very very useful article for all CS Majors! I found it enlightening and it broadened my perspective.
 
